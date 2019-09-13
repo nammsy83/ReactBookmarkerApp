@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactBookmarkerApp/static/css/main.b3ef4d89.chunk.css",
+    "main.js": "/ReactBookmarkerApp/static/js/main.7cc4b96b.chunk.js",
+    "main.js.map": "/ReactBookmarkerApp/static/js/main.7cc4b96b.chunk.js.map",
+    "runtime~main.js": "/ReactBookmarkerApp/static/js/runtime~main.29bfd97e.js",
+    "runtime~main.js.map": "/ReactBookmarkerApp/static/js/runtime~main.29bfd97e.js.map",
+    "static/js/2.6953047f.chunk.js": "/ReactBookmarkerApp/static/js/2.6953047f.chunk.js",
+    "static/js/2.6953047f.chunk.js.map": "/ReactBookmarkerApp/static/js/2.6953047f.chunk.js.map",
+    "index.html": "/ReactBookmarkerApp/index.html",
+    "precache-manifest.e184aef421fa1c7b91545a65baf4c0a2.js": "/ReactBookmarkerApp/precache-manifest.e184aef421fa1c7b91545a65baf4c0a2.js",
+    "service-worker.js": "/ReactBookmarkerApp/service-worker.js",
+    "static/css/main.b3ef4d89.chunk.css.map": "/ReactBookmarkerApp/static/css/main.b3ef4d89.chunk.css.map"
+  }
+}
