@@ -1,0 +1,9 @@
+.bookmarkitem{
+    list-style: none;
+    margin: 10px 0;
+}
+.bookmarkitem a{
+    display: inline-block;
+    margin: 0 10px;
+    
+}
